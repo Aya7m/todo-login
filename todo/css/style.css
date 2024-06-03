@@ -1,0 +1,30 @@
+body{
+    background-color: #524C42;
+}
+
+.task{
+    cursor: pointer;
+    transition: all 0.5s;
+}
+.task:hover{
+    width: 80%  !important;
+}
+.task i{
+    padding: 10px;
+    font-size: 20px;
+}
+.task i:hover{
+    color:#E2DFD0;
+}
+
+
+#taskform{
+    background-color: #E2DFD0;
+}
+#namee,h4,#taskbutton{
+    color: #32012F ;
+}
+.task{
+    background-color: #F97300;
+    color: #32012F;
+}
